@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    list-style: none;
+  }
+  
+  .container, section, address {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
